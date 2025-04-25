@@ -1,0 +1,15 @@
+D:\UdemyProjeler\MvcProjeKampi\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\UdemyProjeler\MvcProjeKampi\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\UdemyProjeler\MvcProjeKampi\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\UdemyProjeler\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.dll
+D:\UdemyProjeler\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\UdemyProjeler\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityLayer.dll
+D:\UdemyProjeler\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityLayer.pdb
+D:\UdemyProjeler\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityLayer.dll.config
+D:\UdemyProjeler\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.xml
+D:\UdemyProjeler\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\UdemyProjeler\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\UdemyProjeler\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\UdemyProjeler\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+D:\UdemyProjeler\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\UdemyProjeler\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
